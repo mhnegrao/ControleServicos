@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyShj2Z8upup/41mX4C6ugTTQ4IunufbF0aGT1qHze3tXmFPWXnZYntsfvE/lFJwfn/kN4/pfE+48YoUNYId9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhneg\\OneDrive\\Projetos\\ExitoApps\\ControleDeServicos\\ControleDeServicos\\DomainLib\\DomainLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhneg\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\mhneg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mhneg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mhneg\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
